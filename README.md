@@ -16,8 +16,11 @@ This project is made so all the elements are displayed correctly on popular scre
 
 **Images**
 
-[Desktop] ()
+[Desktop] (https://github.com/parkthiti/se_project_aroundtheus/blob/main/images/Desktop_size.png)
 
-The way you'll do this at work is by exporting images directly from Figma — we recommend doing that to practice more. Don't forget to optimize them [here](https://tinypng.com/), so your project loads faster.
+[Mobile] (https://github.com/parkthiti/se_project_aroundtheus/blob/main/images/Mobile_size.png)
 
-Good luck and have fun!
+**Plans for improving the project**
+
+- Tablets screen size
+- Upload a short video
