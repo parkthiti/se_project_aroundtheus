@@ -24,3 +24,7 @@ This project is made so all the elements are displayed correctly on popular scre
 
 - Tablets screen size
 - Upload a short video
+
+**Here is the link to my github project**
+
+[Project 3: Around The U.S.](https://github.com/parkthiti/se_project_aroundtheus)

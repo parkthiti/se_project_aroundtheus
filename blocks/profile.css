@@ -51,8 +51,7 @@
   height: 24px;
   width: 24px;
   grid-area: button;
-  margin-top: 16px;
-  margin-left: 18px;
+  margin: 16px 18px 16px 18px;
   border: 1px solid;
   color: white;
   transition: opacity 0.1s ease-in-out;

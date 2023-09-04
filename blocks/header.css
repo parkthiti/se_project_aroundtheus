@@ -11,6 +11,6 @@
   .header__image {
     max-width: 126px;
     height: 24px;
-    padding-left: 27px;
+    margin: 28px 0px 32px 27px;
   }
 }
