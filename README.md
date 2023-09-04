@@ -27,4 +27,4 @@ This project is made so all the elements are displayed correctly on popular scre
 
 **Here is the link to my github project**
 
-[Project 3: Around The U.S.](https://github.com/parkthiti/se_project_aroundtheus)
+[Project 3: Around The U.S.](https://parkthiti.github.io/se_project_aroundtheus/)
