@@ -1,3 +1,16 @@
 .header {
+  border-bottom: rgb(84 84 84 / 0.7) solid 1px;
+}
+
+.header__image {
   margin-top: 45px;
+  margin-bottom: 41px;
+}
+
+@media screen and (max-width: 320px) {
+  .header__image {
+    max-width: 126px;
+    height: 24px;
+    padding-left: 27px;
+  }
 }
