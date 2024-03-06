@@ -93,3 +93,10 @@
   color: #fff;
   border: none;
 }
+
+@media screen and (max-width: 320px) {
+  .modal__container {
+    width: 200px;
+    height: 170px;
+  }
+}
